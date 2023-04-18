@@ -1,5 +1,5 @@
 # Online_store
-Welcome to my GitHub repository for my online store project! 
+Welcome to my GitHub repository for my mini Online Store project! 
 This project allows users to create a user account and shopping cart, 
 with an initial balance of $1000. Users can also create products for 
 the store, specifying their category, name, and price.
