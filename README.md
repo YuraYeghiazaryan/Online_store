@@ -1,6 +1,8 @@
 # Online_store
-Օնլայն խանութում հնարավորություն կա ստեղծել user,որի ստեղծման ժամանակ նաև ստեղծվում է ապրանքների զամբյուղ(shopping_cart), user-ի id-ով:
-Սկզբում օգտատերը ունենում է 1000$:
-Նաև հնարավորություն կա ստեղծել ապրանքներ(product) խանութի համար, փոխանցելով դրանց կատեգորիան(categories), անունը(name) և արժեքը(price):
-Ապրանքները կարող ենք ավելացնել զամբյուղում, տեսնել դրանց ընդհանուր արժեքը և կատարել գնումներ:
-Գնումներ կատարելիս, օգտատիրոջ հաշվից գումարը պակասում է համապատասխան քանակով:
+Welcome to my GitHub repository for my online store project! 
+This project allows users to create a user account and shopping cart, 
+with an initial balance of $1000. Users can also create products for 
+the store, specifying their category, name, and price.
+Once products have been created, users can add them to their cart,
+view the total cost, and make a purchase. When a purchase is made, 
+the appropriate amount is debited from the user's account.
